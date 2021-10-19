@@ -1,15 +1,26 @@
 ## Olá! Meu nome é Gabriel👋👋
 
-- EStudando JavaScript
+
+[![Instagran](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/gomez_eh/) [![linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/gabriel-gomes-672464211/)
+  
+![Gomez GitHub stats](https://github-readme-stats.vercel.app/api?username=GomezXD5&show_icons=true&theme=dark)
 
 
-<p align="center">
+
+<p align="left">
 <a href="https://github.com/DenverCoder1/github-readme-streak-stats">
-<img src="https://github-readme-streak-stats.herokuapp.com?user=GomezXD5&theme=tokyonight&hide_border=true" />
 </a>
   <a href="https://wakatime.com/@GOMEZXD5">
-  <img src="https://github-readme-stats.vercel.app/api/wakatime?username=GOMEZXD5&theme=tokyonight"/>
+  <img src="https://github-readme-stats.vercel.app/api/wakatime?username=@GOMEZXD5&theme=tokyonight"/>
 </a>
-<a href="#"><img src="https://github.com/GomezXD5/GomezXD5/blob/output/github-contribution-grid-snake.svg" />
-  </a>
 </p>
+
+
+## Tecnologia que Uso atualmente
+
+<div style="display: inline_block"><br/>
+  <img align="center" alt="html5" src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
+  <img align="center" alt="css" src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
+  <img align="center" alt="javascript" src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E" />
+  
+</div>
