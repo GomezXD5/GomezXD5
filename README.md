@@ -1,4 +1,9 @@
-GOMEZXD5<p align="center">
+## Olá! Meu nome é Gabriel👋👋
+
+- EStudando JavaScript
+
+
+<p align="center">
 <a href="https://github.com/DenverCoder1/github-readme-streak-stats">
 <img src="https://github-readme-streak-stats.herokuapp.com?user=GomezXD5&theme=tokyonight&hide_border=true" />
 </a>
