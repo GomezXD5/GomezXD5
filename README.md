@@ -1,3 +1,5 @@
+<div align="center">
+  
 ## Olá! Meu nome é Gabriel👋👋
 
 
@@ -9,6 +11,9 @@
 
 <p align="left">
 <a href="https://github.com/DenverCoder1/github-readme-streak-stats">
+ 
+  [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=GomezXD5&theme=neon-dark)](https://git.io/streak-stats)
+  
 </a>
   <a href="https://wakatime.com/@GOMEZXD5">
   <img src="https://github-readme-stats.vercel.app/api/wakatime?username=@GOMEZXD5&theme=tokyonight"/>
@@ -16,7 +21,7 @@
 </p>
 
 
-## Tecnologia que Uso atualmente
+## As Tecnologias que Uso atualmente
 
 <div style="display: inline_block"><br/>
   <img align="center" alt="html5" src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
@@ -24,3 +29,5 @@
   <img align="center" alt="javascript" src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E" />
   
 </div>
+ 
+  </div>
