@@ -34,4 +34,4 @@
  
   
   
- [[https://spotify-github-profile.vercel.app/api/view.svg?uid=31e3xmwls7q2pere7tp3d4q4jp2m&redirect=true][https://spotify-github-profile.vercel.app/api/view.svg?uid=31e3xmwls7q2pere7tp3d4q4jp2m&cover_image=true&theme=default)]]
+ [![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=31e3xmwls7q2pere7tp3d4q4jp2m&cover_image=true&theme=default)](https://spotify-github-profile.vercel.app/api/view?uid=31e3xmwls7q2pere7tp3d4q4jp2m&redirect=true)
