@@ -28,6 +28,8 @@
   <img align="center" alt="css" src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
   <img align="center" alt="javascript" src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E" />
   
+  
+
 </div>
  
-  </div>
+ [![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=31e3xmwls7q2pere7tp3d4q4jp2m&cover_image=true&theme=novatorem&bar_color=53b14f&bar_color_cover=false)](https://github.com/kittinan/spotify-github-profile)
