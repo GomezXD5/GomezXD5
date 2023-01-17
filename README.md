@@ -1,6 +1,6 @@
 <div align="center">
   
-## Olá! Meu nome é Gabriel👋👋
+<h1>Ola!!! Meu Nome é <a href="https://www.linkedin.com/in/gabriel-gomes-672464211/"</a> Gabriel Gomes 👋👋</h1>
 
 
 [![Instagran](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/gomez_eh/) [![linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/gabriel-gomes-672464211/)
