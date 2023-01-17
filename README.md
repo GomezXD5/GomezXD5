@@ -8,7 +8,11 @@
 ![Gomez GitHub stats](https://github-readme-stats.vercel.app/api?username=GomezXD5&show_icons=true&theme=dark)
 
 
+<div align="center">
 
+  ![Snake animation](https://github.com/danielbped/danielbped/blob/output/github-contribution-grid-snake.svg)
+
+</div>
 <p align="left">
 <a href="https://github.com/DenverCoder1/github-readme-streak-stats">
  
