@@ -16,7 +16,7 @@
 <p align="left">
 <a href="https://github.com/DenverCoder1/github-readme-streak-stats">
  
-  [![GitHub Streak](https://streak-stats.demolab.com/?user=DenverCoder1)](https://git.io/streak-stats)
+  [![GitHub Streak](https://streak-stats.demolab.com/?user=GomezXD5)](https://git.io/streak-stats)
   
 </a>
   <a href="https://wakatime.com/@GOMEZXD5">
